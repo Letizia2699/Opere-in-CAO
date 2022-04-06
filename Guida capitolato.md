@@ -112,3 +112,67 @@ RESISTENZA AI SOLFATI
 I cementi comuni resistenti ai solfati devono soddisfare requisiti chimici addizionali, specificati nella tabella mostrata di seguito. Questa tipologia di cementi è identificata dalla sigla SR.
 
 [immagine 12]
+
+## Calcestruzzo fresco: le classi di consistenza
+
+
+La norma EN 206-1, conseguentemente alla definizione delle classi di esposizione, elenca le classi di consistenza, nelle quali il calcestruzzo è classificato secondo la dimensione massima di aggregato.
+
+[immagine13]
+[immagine14]
+[immagine15]
+[immagine16]
+
+## Calcestruzzo indurito: le classi di resistenza a compressione
+
+La seguente tabella fa riferimento ai calcestruzzi normali e pesanti ed elenca le classi di resistenza a compressione per determinati valori di resistenze ottenuti mediante prove di laboratorio.
+
+[immagine17]
+
+La seguente tabella, analoga alla precedente, fa invece riferimento ai calcestruzzi leggeri.
+
+[immagine18]
+
+Questi ultimi possono essere classificati anche secondo la classe di densità, come viene mostrato nella seguente tabella.
+
+[immagine19]
+
+## Requisiti di base per la composizione del calcestruzzo
+
+La composizione del calcestruzzo e la scelta dei materiali costituenti devono soddisfare i requisti specifici per il calcestruzzo fresco e per quello indurito, considerando la consistenza, la densità, la resistenza, la durabilità e la protezione contro la corrosione dell'acciaio usato per le armature, prendendo in considerazione il processo di produzione e le modalità esecutive.
+La composizione del calcestruzzo deve essere progettata per ridurre al minimo il fenomeno di segregazione e di bleeding nelle fasi iniziali, se non specificato in altro modo.
+Se il materiale non viene proodotto direttamente in cantiere ai requisiti necessari per garantire le prestazioni si aggiungono ulteriori specifiche da prendere in considerazione per le fasi di trasporto, collocazione, compattazione e trattamenti aggiuntivi.
+
+SELEZIONE DEL CEMENTO
+
+Il cemento deve essere scelto considerando i segueni aspetti:
+- esecuzione della lavorazione
+- finalità d'uso
+- condizioni di stagionatura
+- dimensioni della struttura
+- condizioni ambientali alle quali la struttura è esposta
+- possibile reattività degli aggregati agli alcali
+
+UTILIZZO DEGLI AGGREGATI  
+
+La tipologia di aggregato, la classificazione, la resistenza al gelo/disgelo, la resistenza all'abrasione devono essere definiti prendendo in considerazione i seguenti aspetti:
+- esecuzione della lavorazione
+- finalità d'uso
+- condizioni di stagionatura
+- requisiti per aggregati esposti
+- dimensione massima dell'aggregato dovrebbe considerare la distanza del copriferro e la minima larghezza della sezione  
+
+AGGREGATI
+
+L'idoneità degli aggregati è stabilita per:
+- aggregati naturali normali, aggregati pesanti e loppa d'altoforno raffeddata in aria conformi alla EN 12620
+- aggregati leggeri
+- aggregati di recupero
+
+Gli aggregati riciclati e artificiali, diversi da loppa d'altoforno raffreddata in aria, possono essere utilizzati come aggregato per calcestruzzo se l'idoneità è stabilita da disposizioni vigenti nel luogo di impiego.
+
+ACQUA DI IMPASTO
+
+L'idoneità generale è stabilita per acqua di impasto conforme alla EN 1008.
+
+additivi
