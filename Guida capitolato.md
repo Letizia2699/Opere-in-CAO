@@ -175,4 +175,6 @@ ACQUA DI IMPASTO
 
 L'idoneità generale è stabilita per acqua di impasto conforme alla EN 1008.
 
-additivi
+## TIPOLOGIE DI CALCESTRUZZO
+
+- Calcestruzzo ad alta resistenza  
