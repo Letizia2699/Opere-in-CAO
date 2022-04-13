@@ -171,10 +171,23 @@ L'idoneità degli aggregati è stabilita per:
 
 Gli aggregati riciclati e artificiali, diversi da loppa d'altoforno raffreddata in aria, possono essere utilizzati come aggregato per calcestruzzo se l'idoneità è stabilita da disposizioni vigenti nel luogo di impiego.
 
+L'allegato I del DM 9/01/1996 definisce i requisiti per gli inerti nel seguente modo: "gli inerti, naturali o di frantumazione, devono essere costituiti da elementi non gelivi e non friabili, privi di sostanze organiche, limose ed argillose, di gesso, ecc., in proporzioni nocive all'indurimento del conglomerato od alla conservazione delle armature. La ghiaia o il pietrisco devono avere dimensioni massime commisurate alle caratteristiche geometriche della carpenteria del getto ed all'ingombro delle armature."
+
 ACQUA DI IMPASTO
 
-L'idoneità generale è stabilita per acqua di impasto conforme alla EN 1008.
+L'idoneità generale è stabilita per acqua di impasto conforme alla EN 1008. L'allegato I del DM 9/01/96 stabilisce che l'acqua per gli impasti deve essere limpida, priva di sali (in modo particolare solfati e cloruri) in percentuali dannose e non essere aggressiva.
+
+ARMATURA
+
+Non si devono mettere in opera armature ossidate, corrose, con difetti superficiali, che ne menomino la resistenza o ricoperte da sostanze che possano ridurne l'aderenza al conglomerato.
+
+IMPASTI
+
+La distribuzione granulometrica degli inerti, il tipo di cemento e la consistenza dell'impasto devono essere adeguati alla destinazione del getto ed al procedimento di posa in opera del conglomerato. Il quantitativo d'acqua deve essere il minimo necessario a consentire una buona lavorabilità del conglomerato tenendo conto anche dell'acqua contenuta negli inerti. Partendo dagli elementi già fissati, il rapporto a/c deve essere scelto in relazione alla resistenza richiesta per il conglomerato. L'impiego degli additivi deve essere subordinato all'accertamento dell'assenza di ogni pericolo di aggressività. L'impasto deve essere fatto con mezzi idonei ed il dosaggio dei componenti eseguito con modalità atte a garantire la costanza del proporzionamento previsto in sede di progetto.
 
 ## TIPOLOGIE DI CALCESTRUZZO
 
 - Calcestruzzo ad alta resistenza  
+- Calcestruzzo ad altissime prestazioni
+- Calcestruzzo leggero (?)
+- Calcestruzzo autocompattante (SCC)
