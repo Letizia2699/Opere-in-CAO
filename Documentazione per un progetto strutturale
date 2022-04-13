@@ -1,0 +1,84 @@
+# Documentazione per un progetto strutturale
+
+Riferimento normativo: §10 NTC2018
+
+I progetti esecutivi riguardanti le strutture devono essere informati a caratteri di chiarezza espositiva e di completezza nei contenuti
+e devono inoltre definire compiutamente l’intervento da realizzare.
+Restano esclusi i piani operativi di cantiere ed i piani di approvvigionamento.
+Il progetto deve comprendere i seguenti elaborati:
+- Relazione di calcolo strutturale, comprensiva di una descrizione generale dell’opera e dei criteri generali di analisi e verifica;
+- Relazione sui materiali;
+- Elaborati grafici, particolari costruttivi;
+- Piano di manutenzione della parte strutturale dell’opera;
+- Relazione sui risultati sperimentali corrispondenti alle indagini specialistiche ritenute necessarie alla realizzazione dell’opera.
+Particolare cura andrà posta nello sviluppare le relazioni di calcolo, con riferimento alle analisi svolte con l’ausilio del calcolo automatico,
+sia ai fini di facilitare l’interpretazione e la verifica dei calcoli, sia ai fini di consentire elaborazioni indipendenti da parte
+di soggetti diversi dal redattore del documento.
+II progettista resta comunque responsabile dell’intera progettazione strutturale.
+
+RELAZIONE DI CALCOLO
+
+Il progettista dovrà avere cura che nella Relazione di calcolo la presentazione dei risultati stessi sia tale da garantirne la leggibilità,
+la corretta interpretazione e la riproducibilità. In particolare nella Relazione di calcolo si devono fornire le seguenti indicazioni:
+
+Tipo di analisi svolta
+
+Occorre preliminarmente:
+- dichiarare il tipo di analisi strutturale condotta (di tipo statico o dinamico, lineare o non lineare) e le sue motivazioni;
+- indicare il metodo adottato per la risoluzione del problema strutturale e le metodologie seguite per la verifica o per il progetto-
+verifica delle sezioni.
+- indicare chiaramente le combinazioni di carico adottate e, nel caso di calcoli non lineari, i percorsi di carico seguiti. In ogni
+caso va motivato l’impiego delle combinazioni o dei percorsi di carico adottati, in specie con riguardo alla effettiva esaustività
+delle configurazioni studiate per la struttura in esame.
+
+Origine e Caratteristiche dei Codici di Calcolo
+
+Occorre indicare con precisione l’origine e le caratteristiche dei codici di calcolo utilizzati riportando titolo, autore, produttore,
+versione, estremi della licenza d’uso o di altra forma di autorizzazione all’uso.
+
+Modalità di presentazione dei risultati.
+
+La quantità di informazioni che usualmente accompagna l’utilizzo di procedure di calcolo automatico richiede un’attenzione particolare
+alle modalità di presentazione dei risultati, in modo che questi riassumano, in una sintesi completa ed efficace, il comportamento
+della struttura per quel particolare tipo di analisi sviluppata. In particolare, è necessario che la Relazione di calcolo riporti
+almeno le seguenti indicazioni:
+- descrizione dell’opera e della tipologia strutturale;
+- inquadramento normativo dell’intervento;
+- definizione dei parametri di progetto;
+- descrizione dei materiali adottati e loro caratteristiche meccaniche;
+- criteri di progettazione e modellazione;
+- combinazione delle azioni;
+- codice di calcolo impiegato;
+- rispetto delle verifiche per gli stati limite considerati.
+
+L’esito di ogni elaborazione deve essere sintetizzato in disegni e schemi grafici contenenti, almeno per le parti più sollecitate della
+struttura, le configurazioni deformate, la rappresentazione grafica delle principali caratteristiche di sollecitazione o delle componenti
+degli sforzi, i diagrammi di inviluppo associati alle combinazioni dei carichi considerate, gli schemi grafici con la rappresentazione
+dei carichi applicati e delle corrispondenti reazioni vincolari.
+Di tali grandezze, unitamente ai diagrammi ed agli schemi grafici, vanno chiaramente evidenziati le convenzioni sui segni, i valori
+numerici e le unità di misura di questi nei punti o nelle sezioni significative ai fini della valutazione del comportamento complessivo
+della struttura, i valori numerici necessari ai fini delle verifiche di misura della sicurezza.
+E’ opportuno che i tabulati generalmente forniti dai programmi automatici, cui la Relazione di calcolo deve fare riferimento, non
+facciano parte integrante della Relazione stessa, ma ne costituiscano un allegato.
+
+Informazioni generali sull’elaborazione.
+
+A valle dell’esposizione dei risultati vanno riportate anche informazioni generali guardanti l’esame ed i controlli svolti sui risultati
+ed una valutazione complessiva dell’elaborazione dal punto di vista del corretto comportamento del modello.
+
+Giudizio motivato di accettabilità dei risultati.
+
+Spetta al progettista il compito di sottoporre i risultati delle elaborazioni a controlli che ne comprovino l’attendibilità. Tale valutazione
+consisterà nel confronto con i risultati di semplici calcoli, anche di larga massima, eseguiti con riferimento a schemi o soluzioni
+noti e adottati, ad esempio, in fase di primo proporzionamento della struttura. Inoltre, sulla base di considerazioni riguardanti
+gli stati tensionali e deformativi determinati, valuterà la consistenza delle scelte operate in sede di schematizzazione e
+di modellazione della struttura e delle azioni.
+Nella relazione devono essere elencati e sinteticamente illustrati i controlli svolti, quali verifiche di equilibrio tra reazioni vincolari
+e carichi applicati, comparazioni tra i risultati delle analisi e quelli di valutazioni semplificate, etc.
+
+VALUTAZIONE INDIPENDENTE DEL CALCOLO
+
+Nel caso in cui si renda necessaria una valutazione indipendente del calcolo strutturale o comunque nel caso di opere di particolare
+importanza, i calcoli più importanti devono essere eseguiti nuovamente da soggetto diverso da quello originario mediante
+programmi di calcolo diversi da quelli usati originariamente e ciò al fine di eseguire un effettivo controllo incrociato sui risultati
+delle elaborazioni.

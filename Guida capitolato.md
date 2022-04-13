@@ -191,3 +191,4 @@ La distribuzione granulometrica degli inerti, il tipo di cemento e la consistenz
 - Calcestruzzo ad altissime prestazioni
 - Calcestruzzo leggero (?)
 - Calcestruzzo autocompattante (SCC)
+- Calcestruzzo fibrorinforzato (FRC)
