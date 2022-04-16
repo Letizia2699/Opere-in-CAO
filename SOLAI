@@ -1,0 +1,146 @@
+# SOLAI
+
+Requisiti:
+1. Resistenza: capacità dell'elemento di sopportare i carichi agenti su di esso (peso proprio, sovraccarichi permanenti ed accidentali)
+1. Modesta deformabilità: capacità di deformarsi con frecce contenute entro limiti accettabili
+1. Minimo spessore
+1. Peso ridotto: per contenere il più possibile i carichi trasmessi alle strutture portanti ed alle fondazioni
+1. Superficie di intradosso piana: per semplificare le operazioni di finitura
+1. Resistenza al fuoco: capacità di sopportare elevate temperature, a seguito di sviluppo di eventuali incendi, per un periodo sufficientemente lungo per permettere l'evacuazione dei locali
+1. Buone proprietà isolanti, termiche ed acustiche
+1. Rapida realizzazione
+1. Basso costo: ottenuto attraverso un buon sfruttamento dei materiali impiegati, un ridotto impiego di manodopera, di opere provvisionali e di sostegno.
+
+Si sottolinea che alcuni dei requisiti elencati sono tra loro in contrasto, come ad esempio la modesta deformabilità con il minimo spessore, il peso modesto con le proprietà acustiche e termiche. Sarà cura del progettista stabilire i giusti compromessi.
+
+NORMATIVA
+
+Di seguito si riportano i paragrafi più significativi delle Norme complementari relative ai solai (punto 7 Parte prima del D.M. 9/1/96).
+
+7.0. Generalità e classificazione solai.
+
+a) Generalità
+
+Nel presente capitolo sono trattati i solai realizzati esclusivamente in c.a. o c.a.p. o misti in c.a. e c.a.p.
+e blocchi in laterizio od in altri materiali. Vengono considerati sia i solai eseguiti in opera che quelli formati
+dall’associazione di elementi prefabbricati.
+Per tutti i solai valgono le prescrizioni già date nei capitoli precedenti per le opere in c.a. e c.a.p. con
+particolare riguardo alle prescrizioni relative agli elementi inflessi.
+In particolare si dovrà disporre agli appoggi dei solai un’armatura inferiore incorporata o aggiuntiva,
+convenientemente ancorata, in grado di assorbire uno sforzo di trazione pari al taglio.
+Ad esse devono aggiungersi od integrarsi le norme complementari indicate nel seguito.
+
+b) Classificazione.
+
+I) Solai in getto pieno: in c.a. od in c.a.p.
+
+II) Solai misti in c.a., c.a.p., e blocchi interposti di alleggerimento collaboranti e non, in laterizio (vedi 7.1.)
+od altro materiale (vedi 7.2.).
+
+III) Solai realizzati dall’associazione di elementi in c.a. e c.a.p. prefabbricati con unioni e/o getti di
+completamento.
+
+7.1. Norme complementari relative ai solai misti di c.a. e c.a.p. e blocchi forati in laterizio.
+
+7.1.1. CLASSIFICAZIONE.
+
+I solai misti in cemento armato normale e precompresso e blocchi forati in laterizio si distinguono nelle
+seguenti categorie:
+
+a) solai con blocchi aventi funzione principale di alleggerimento;
+
+b) solai con blocchi aventi funzione statica in collaborazione con il conglomerato.
+
+7.1.2. PRESCRIZIONI GENERALI.
+
+I blocchi di cui al punto 7.1.1.b) devono essere conformati in modo che nel solaio in opera sia
+assicurata con continuità la trasmissione degli sforzi dall’uno all’altro elemento.
+Nel caso si richieda al laterizio il concorso alla resistenza agli sforzi tangenziali, si devono usare
+elementi monoblocco disposti in modo che nelle file adiacenti, comprendenti una nervatura di conglomerato,
+i giunti risultino sfalsati tra loro. In ogni caso, ove sia prevista una soletta di conglomerato staticamente
+integrativa di altra in laterizio, quest’ultima deve avere forma e finitura tali da assicurare la solidarietà ai fini
+della trasmissione degli sforzi tangenziali.
+Per entrambe le categorie il profilo dei blocchi delimitanti la nervatura di conglomerato da gettarsi in
+opera non deve presentare risvolti che ostacolino il deflusso di calcestruzzo e restringano la sezione delle
+nervature stesse sotto i limiti stabiliti in 7.1.4.5.
+
+7.1.4. PROGETTAZIONE.
+
+7.1.4.1. Verifiche.
+
+Le tensioni limite in esercizio per combinazioni rare nel conglomerato e nelle armature metalliche sono
+quelle prescritte al precedente punto 4.3.2.
+Per il laterizio, nei solai di cui al punto 7.1.1.b), la compressione in esercizio per combinazioni rare non
+deve superare 6,5 N/mm2
+ per gli sforzi agenti nella direzione dei fori, e 4 N/mm2
+ per sforzi in direzione
+normale ad essi, sempre che, in questo secondo caso, il tipo costruttivo lo giustifichi.
+Sono anche ammesse verifiche agli stati limite fondati su prove di strutture o di elementi campioni di
+serie secondo quanto indicato al punto 4.4.1.
+
+7.1.4.2. Spessore minimo dei solai.
+
+Lo spessore dei solai a portata unidirezionale che non siano di semplice copertura non deve essere
+minore di 1/25 della luce di calcolo ed in nessun caso minore di 12 cm.
+Per i solai costituiti da travetti precompressi e blocchi interposti il predetto limite può scendere ad 1/30.
+Le deformazioni devono risultare compatibili con le condizioni di esercizio del solaio e degli elementi
+costruttivi ed impiantistici ad esso collegati.
+
+7.1.4.3. Modulo elastico di calcolo.
+
+Nel calcolo delle reazioni iperstatiche il modulo di elasticità del laterizio, in mancanza di determinazioni
+dirette, può assumersi pari a 20 kN/mm2.
+
+7.1.4.4. Spessore minimo della soletta.
+
+Nei solai di cui al punto 7.1.1.a) lo spessore minimo del calcestruzzo della soletta di conglomerato non
+deve essere minore di 4 cm.
+Nei solai di cui al punto 7.1.1.b), può essere omessa la soletta di calcestruzzo e la zona rinforzata di
+laterizio, per altro sempre rasata con calcestruzzo, può essere considerata collaborante e deve soddisfare i
+seguenti requisiti:
+- possedere spessore non minore di 1/5 dell’altezza, per solai con altezza fino a 25 cm, non minore di 5 cm
+per solai con altezza maggiore;
+- avere area effettiva dei setti e delle pareti, misurata in qualunque sezione normale alla direzione dello
+sforzo di compressione, non minore del 50% della superficie lorda.
+
+7.1.4.5. Larghezza ed interasse delle nervature.
+
+La larghezza minima delle nervature in calcestruzzo per solai con nervature gettate o completate in
+opera non deve essere minore di 1/8 dell’interasse e comunque non inferiore a 8 cm.
+Nel caso di produzione di serie in stabilimento di pannelli di solaio completi controllati come previsto al
+punto 7.1.4.1. il predetto limite minimo potrà scendere a 5 cm.
+L’interasse delle nervature non deve in ogni caso essere maggiore di 15 volte lo spessore medio della
+soletta. Il blocco interposto deve avere dimensione massima inferiore a 52 cm.
+Per i solai di categoria b) possono considerarsi appartenenti alle nervature ai fini del calcolo le pareti di
+laterizio formanti cassero, sempre che sia assicurata l’aderenza fra i due materiali. La larghezza collaborante
+va determinata in conformità al punto 5.5; per produzioni di serie in stabilimento di pannelli solaio completi, la
+larghezza collaborante potrà essere determinata con la sperimentazione di cui al punto 4.4.
+
+7.1.4.6. Armatura trasversale.
+
+Per i solai con nervatura gettata o completata in opera e di luce superiore a 4,50 m o quando sia
+sensibile il comportamento a piastra o quando agiscano carichi concentrati che incidano in misura
+considerevole sulle sollecitazioni di calcolo, si deve prevedere all’estradosso una soletta gettata in opera di
+spessore non inferiore a 4 cm munita di adeguata armatura delle solette o nelle eventuali nervature pari
+almeno a 3 Ø 6 al metro o al 20% di quella longitudinale nell’intradosso del solaio.
+Particolare attenzione deve essere dedicata alla sicurezza al distacco di parti laterizie, specialmente in
+dipendenza di sforzi trasversali anche di carattere secondario.
+In assenza di soletta in calcestruzzo (solaio rasato) è necessaria l’adozione di almeno una nervatura
+trasversale per luci superiori a 4,5 m. Nel caso di produzione di serie in stabilimento di pannelli solaio
+completi, la capacità di ripartizione trasversale potrà essere garantita anche a mezzo di altri dispositivi la cui
+efficacia è da dimostrarsi con idonee prove sperimentali.
+
+7.1.4.7. Armatura longitudinale.
+
+L’armatura longitudinale deve essere superiore a:
+
+As min ≥ 0,07 h cm2
+ al metro
+
+ove h è l’altezza del solaio espressa in cm.
+
+7.1.4.8. Armatura per il taglio.
+
+Nelle condizioni previste in 4.2.2.2. può non disporsi armatura per il taglio.
+Quando invece occorre far ricorso ad una armatura per il taglio, non è ammesso tener conto della
+collaborazione delle pareti laterali di laterizio ai fini della valutazione della sollecitazione tangenziale τcl.
