@@ -1,0 +1,59 @@
+# TRAVI
+
+Requisiti:
+- trasferimento di carichi dei solai agli elementi portanti verticali
+- superficie piana di intradosso
+- resistenza a carichi notevoli o in caso di luci importanti
+- deformabilità
+- rigidezza
+- esecuzione di getto in due fasi nel caso di travi estradossate
+- rapporti di snellezza
+
+Le travi possono essere classificate in relazione alla loro altezza e posizione rispetto al solaio o in relazione alle modalità di realizzazione. Possono essere distinte in:
+- travi emergenti (travi intradossate): travi aventi altezza maggiore di quella del solaio e sporgenti al di sotto dell'intradosso dello stesso;
+- travi a spessore: interamente contenute nello spessore del solaio;
+- travi estradossate: aventi altezza maggiore di quella del solaio e sporgenti al di sopra dell'estradosso dello stesso.
+
+NORMATIVA
+
+Di seguito si riportano alcuni dei paragrafi del D.M. 9/01/1996 per definire i criteri per la verifica dei requisiti relativi alle travi in sede di validazione.
+
+4.3.3.3. Rapporti di snellezza limite.
+
+Per travi a sezione rettangolare o assimilabili e per luci fino a 10 m, qualora la verifica allo stato limite
+ultimo sia effettuata con calcolo non lineare o con calcolo lineare, escludendo quindi il calcolo rigido plastico,
+si potrà omettere la verifica allo stato limite di deformazione purché i rapporti l/h (l = luce, h = altezza totale)
+risultino inferiori o uguali ai valori di cui al prospetto 8-I.
+
+[Immagine36]
+
+5.3. Regole specifiche per strutture in cemento armato normale.
+
+5.3.1. ARMATURA LONGITUDINALE.
+
+Nelle strutture inflesse in elevazione la percentuale di armatura longitudinale, nella zona tesa, riferita
+all’area totale della sezione di conglomerato, non deve scendere sotto lo 0,15 per barre ad aderenza
+migliorata e sotto lo 0,25 per barre lisce. Tale armatura deve essere convenientemente diffusa.
+In presenza di torsione si dovrà disporre almeno una barra longitudinale per spigolo e comunque
+l’interasse fra le barre medesime non dovrà superare 35 cm.
+Alle estremità delle travi deve essere disposta una armatura inferiore, convenientemente ancorata, in
+grado di assorbire, allo stato limite ultimo, uno sforzo di trazione uguale al taglio.
+
+5.3.2. STAFFE.
+
+Nelle travi si devono prevedere staffe aventi sezione complessiva non inferiore a
+Ast = 0,10 (1 + 0,15 d/b) b cm2
+/m
+essendo d l’altezza utile della sezione e b lo spessore minimo dell’anima in cm, con un minimo di tre staffe al
+metro e comunque passo non superiore a 0,8 volte l’altezza utile della sezione.
+In prossimità di carichi concentrati o delle zone d’appoggio, per una lunghezza pari all’altezza utile della
+sezione da ciascuna parte del carico concentrato, il passo delle staffe non dovrà superare il valore 12 ∅l,
+essendo ∅l
+ il diametro minimo dell’armatura longitudinale.
+In presenza di torsione dovranno disporsi nelle travi staffe aventi sezione complessiva, per metro
+lineare, non inferiore a 0,15 b cm2
+ per staffe ad aderenza migliorata e 0,25 b cm2
+ per staffe lisce, essendo b
+lo spessore minimo dell’anima misurata in centimetri. Inoltre il passo delle staffe non dovrà superare 1/8
+della lunghezza della linea media della sezione anulare resistente e comunque 20 cm.
+Le staffe devono essere collegate da apposite armature longitudinali.
