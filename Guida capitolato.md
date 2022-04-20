@@ -4,16 +4,16 @@
 La presente guida si pone come obiettivo quello di delineare un percorso che, ottemperando a tutti i vincoli normativi, aiuti il progettista nella stesura di un capitolato per le strutture in calcestruzzo armato ordinario.
 ### Definizione della Classe di Vita Nominale di Progetto
 La Vita Nominale di una struttura è definita come il numero di anni nel quale è previsto che la stessa, purché soggetta alla necessaria manutenzione, mantenga specifici livelli prestazionali. (NTC paragrafo 2.4.1)
-[immagine 1]
+[Immagine1]
 
 ### Definizione della tipologia di degrado
 Al progettista spetta, quindi, il compito di definire la tipologia di degrado del materiale in funzione dell’ambiente di progetto, che può essere caratterizzato dalla presenza di specifiche sostanze aggressive. A tal proposito è necessario consultare la norma UNI 11104, resa cogente in Italia dal D.M. 17/01/2018. La norma associa le tipologie di degrado del materiale ai contesti ambientali definendo 6 classi di esposizione ambientale, a propria volta suddivise in sottoclassi per garantire un’ulteriore differenziazione delle azioni di degrado.
-[immagine 2]
-[immagine 3]
-[immagine 4]
-[immagine 5]
-[immagine 6]
-[immagine 7]
+[Immagine2]
+[Immagine3]
+[Immagine4]
+[Immagine5]
+[Immagine6]
+[Immagine7]
 La prima colonna riporta la classe con una sigla alfanumerica, la numerazione crescente delle sottoclassi indica un progressivo aumento di aggressività ambientale. La seconda colonna descrive l’ambiente ed i relativi possibili agenti aggressivi. Nella terza colonna, infine, vi sono degli esempi di situazioni in cui il calcestruzzo potrebbe trovarsi.
 Qualora sia presente più di una aggressione, è necessario indicare tutte le classi in cui ricade la struttura e le prescrizioni da assegnare al materiale devono fare riferimento alla condizione più gravosa per ragioni di sicurezza.
 ### REQUISITI DEL CALCESTRUZZO RELATIVI ALLE CLASSI DI ESPOSIZIONE
@@ -49,7 +49,7 @@ Cementi portland alla loppa (II/A-S e II/B-S), ai fumi di silice (II/A-D), alla 
  - CEM V : cemento composito, ottenuto per simultanea aggiunta di loppa e di materiale pozzolanici.
 
 Di seguito si riporta la tabella presente in normativa, che sintetizza le tipologie di cemento e la relativa composizione.
-[immagine 8]
+[Immagine8]
 
 La norma UNI EN 197-1 stabilisce che ogni tipo di cemento sia individuato da una sigla che inizia con CEM seguito da un numero romano e da lettere che individuano il tipo ed il sottotipo e da un numero che definisce la classe di resistenza.
 Vi sono tre classi di resistenza:
@@ -69,7 +69,7 @@ I cementi Portland hanno la seguente notazione aggiuntiva:
  - CEM I-SR 3 : C3A < 3%
  - CEM I-SR 5 : C3A < 5%
 
-[immagine 9]
+[Immagine9]
 
 - CEM III/B-SR e CEM III/C-SR non hanno particolari requisiti in termini di contenuto di C3A
 - CEM IV/A-SR e CEM IV/B-SR : C3A < 9%
@@ -81,7 +81,7 @@ Nella tabella riportata di seguito sono elencati i requisiti meccanici e fisici 
 - Tempo di inizio presa (espresso in minuti), determinato in accordo alla UNI EN 196-3
 - Stabilità (espansione), espressa in mm, determinata in accordo alla UNI EN 196-3
 
-[immagine 10]
+[Immagine10]
 
 La normativa fornisce, inoltre, una tabella con i principali requisiti chimici dei cementi. Nella prima colonna sono elencate le seguenti proprietà:
 - Perdita al fuoco
@@ -92,7 +92,7 @@ La normativa fornisce, inoltre, una tabella con i principali requisiti chimici d
 
 La seconda colonna fa riferimento alle normative, la terza al tipo di cemento, la quarta alla classe di resistenza e infine la quinta colonna definisce i requisiti, espressi come percentuale in massa del cemento finale.
 
-[immagine 11]
+[Immagine11]
 
 [c] I cementi di tipo CEM II/B-T e CEM II/B-M con tenore di T > 20% possono contenere fino al 4,5% di SO3, per tutte le classi di resistenza
 
@@ -111,31 +111,31 @@ I cementi comuni a bassa resistenza iniziale avranno una minor resistenza inizia
 RESISTENZA AI SOLFATI
 I cementi comuni resistenti ai solfati devono soddisfare requisiti chimici addizionali, specificati nella tabella mostrata di seguito. Questa tipologia di cementi è identificata dalla sigla SR.
 
-[immagine 12]
+[Immagine 12]
 
 ## Calcestruzzo fresco: le classi di consistenza
 
 
 La norma EN 206-1, conseguentemente alla definizione delle classi di esposizione, elenca le classi di consistenza, nelle quali il calcestruzzo è classificato secondo la dimensione massima di aggregato.
 
-[immagine13]
-[immagine14]
-[immagine15]
-[immagine16]
+[Immagine13]
+[Immagine14]
+[Immagine15]
+[Immagine16]
 
 ## Calcestruzzo indurito: le classi di resistenza a compressione
 
 La seguente tabella fa riferimento ai calcestruzzi normali e pesanti ed elenca le classi di resistenza a compressione per determinati valori di resistenze ottenuti mediante prove di laboratorio.
 
-[immagine17]
+[Immagine17]
 
 La seguente tabella, analoga alla precedente, fa invece riferimento ai calcestruzzi leggeri.
 
-[immagine18]
+[Immagine18]
 
 Questi ultimi possono essere classificati anche secondo la classe di densità, come viene mostrato nella seguente tabella.
 
-[immagine19]
+[Immagine19]
 
 ## Requisiti di base per la composizione del calcestruzzo
 
@@ -145,13 +145,30 @@ Se il materiale non viene proodotto direttamente in cantiere ai requisiti necess
 
 SELEZIONE DEL CEMENTO
 
+Tutti i manufatti in c.a. e c.a.p. potranno essere eseguiti impiegando unicamente cementi provvisti di
+attestato di conformità CE che soddisfino i requisiti previsti dalla norma UNI EN 197-1:2006.
+Qualora vi sia l'esigenza di eseguire getti massivi, al fine di limitare l'innalzamento della temperatura
+all'interno del getto in conseguenza della reazione di idratazione del cemento, sarà opportuno utilizzare
+cementi comuni a basso calore di idratazione contraddistinti dalla sigla LH contemplati dalla norma UNI
+EN 197-1:2006.
+Se è prevista una classe di esposizione XA, secondo le indicazioni della norma UNI EN 206 e UNI
+11104 , conseguente ad un'aggressione di tipo solfatico o di dilavamento della calce , sarà necessario
+utilizzare cementi resistenti ai solfati o alle acque dilavanti in accordo con la UNI 9156 o la UNI 9606.
+Per getti di calcestruzzo in sbarramenti di ritenuta di grandi dimensioni si dovranno utilizzare cementi di
+cui all'art. 1 lett C della legge 595 del 26 maggio 1965 o , al momento del recepimento nell'ordinamento
+italiano, cementi a bassissimo calore di idratazione VHL conformi alla norma UNI EN 14216.
+
 Il cemento deve essere scelto considerando i segueni aspetti:
 - esecuzione della lavorazione
 - finalità d'uso
 - condizioni di stagionatura
 - dimensioni della struttura
 - condizioni ambientali alle quali la struttura è esposta
-- possibile reattività degli aggregati agli alcali
+- possibile reattività degli aggregati agli alcali.
+
+Controlli sul cemento:
+- controllo della documentazione
+- controllo di accettazione
 
 UTILIZZO DEGLI AGGREGATI  
 
@@ -163,6 +180,16 @@ La tipologia di aggregato, la classificazione, la resistenza al gelo/disgelo, la
 - dimensione massima dell'aggregato dovrebbe considerare la distanza del copriferro e la minima larghezza della sezione  
 
 AGGREGATI
+
+Gli aggregati utilizzabili, ai fini del confezionamento del calcestruzzo, debbono possedere marcatura CE
+secondo D.P.R. 246/93 e successivi decreti attuativi.
+Gli aggregati debbono essere conformi ai requisiti della normativa UNI EN 12620 e UNI 8520-2 con i
+relativi riferimenti alla destinazione d’uso del calcestruzzo.
+La massa volumica media del granulo in condizioni s.s.a. (saturo a superficie asciutta) deve essere pari
+o superiore a 2300 kg/m3
+. A questa prescrizione si potrà derogare solo in casi di comprovata
+impossibilità di approvvigionamento locale, purché si continuino a rispettare le prescrizioni in termini di
+resistenza caratteristica a compressione e di durabilità.
 
 L'idoneità degli aggregati è stabilita per:
 - aggregati naturali normali, aggregati pesanti e loppa d'altoforno raffeddata in aria conformi alla EN 12620
@@ -177,9 +204,77 @@ ACQUA DI IMPASTO
 
 L'idoneità generale è stabilita per acqua di impasto conforme alla EN 1008. L'allegato I del DM 9/01/96 stabilisce che l'acqua per gli impasti deve essere limpida, priva di sali (in modo particolare solfati e cloruri) in percentuali dannose e non essere aggressiva.
 
-ARMATURA
+ARMATURA IN ACCIAIO
 
 Non si devono mettere in opera armature ossidate, corrose, con difetti superficiali, che ne menomino la resistenza o ricoperte da sostanze che possano ridurne l'aderenza al conglomerato.
+L’acciaio da cemento armato ordinario comprende:
+- barre d’acciaio tipo B450C (6 mm ≤ Ø ≤ 50 mm), rotoli tipo B450C (6 mm ≤ Ø ≤ 16 mm);
+- prodotti raddrizzati ottenuti da rotoli con diametri ≤ 16mm per il tipo B450C;
+- reti elettrosaldate (6 mm ≤ Ø ≤ 12 mm) tipo B450C;
+- tralicci elettrosaldati (6 mm ≤ Ø ≤ 12 mm) tipo B450C.
+
+Ognuno di questi prodotti deve rispondere alle caratteristiche richieste dalle Norme Tecniche per le
+Costruzioni, che specificano le caratteristiche tecniche che devono essere verificate.
+
+Requisiti:
+- saldabilità e composizione chimica
+
+[Immagine37]
+
+- Proprietà meccaniche
+
+
+Le proprietà meccaniche devono essere in accordo con quanto specificato nelle Norme Tecniche per le Costruzioni (D.M. 14/09/2005).
+
+[Immagine38]
+[Immagine39]
+
+- Prova di piega e raddrizzamento
+
+
+In accordo con quanto specificato nel D.M. 14/09/2005, è richiesto il rispetto dei limiti seguenti.
+
+[Immagine40]
+
+- Resistenza a fatica in campo elastico
+
+
+Le proprietà di resistenza a fatica garantiscono l’integrità dell’acciaio sottoposto a sollecitazioni ripetute
+nel tempo.
+La proprietà di resistenza a fatica deve essere determinata secondo UNI EN 15630.
+Il valore della tensione σmax sarà 270 N/mm2
+ (0,6 fy,nom). L’intervallo delle tensioni, 2σ deve essere pari
+a 150 N/mm2
+ per le barre diritte o ottenute da rotolo e 100 N/mm2
+ per le reti elettrosaldate. Il campione
+deve sopportare un numero di cicli pari a 2 x 1000000.
+
+- Resistenza a carico ciclico in campo plastico
+
+Le proprietà di resistenza a carico ciclico garantiscono l’integrità dell’acciaio sottoposto a sollecitazioni
+particolarmente gravose o eventi straordinari (es. urti, sisma etc..).
+
+- Diametri e sezioni equivalenti
+
+Il valore del diametro nominale deve essere concordato all’atto dell’ordine. Le tolleranze devono essere
+in accordo con il D.M. 14/09/2005.
+
+[Immagine41]
+
+- Aderenza e geometria superficiale
+
+I prodotti devono avere una superficie nervata in accordo con il D.M. 14/09/2005. L’indice di aderenza Ir
+deve essere misurato in accordo a quanto riportato nel paragrafo 11.2.2.10.4 del D.M. 14/09/2005.
+
+[Immagine42]
+
+
+
+
+
+
+
+
 
 IMPASTI
 
